@@ -57769,7 +57769,7 @@ A.J7.prototype={
 l6(a){this.zr(0)}}
 A.E0.prototype={
 L(a,b){var s=null,r=4281214777,q=4280524241,p=4284506720,o=4293007162,n=A.PU(new A.G(4294046708),B.a9,new A.G(o),s,s,s,new A.G(p),new A.G(o),s,s,new A.G(4294967295),s,new A.G(q),s,new A.G(r),s,s,s,s,new A.G(r),s,new A.G(q),new A.G(r),s,new A.G(p),s,new A.G(r),s,s,s,s),m=n.a,l=m===B.an,k=l?n.cy:n.b,j=l?n.db:n.c,i=A.x5(k),h=n.CW,g=n.f,f=n.cy,e=n.db.a
-return new A.tR(new A.D8(s),"Web App",A.afd(g,A.x5(g),l,h,f,m,h,f,n,h,A.aY(31,e>>>16&255,e>>>8&255,e&255),n.at,j,k,i,h,s,s),!1,new A.D9(),$.amW,s)}}
+return new A.tR(new A.D8(s),"vinayak_portfolio",A.afd(g,A.x5(g),l,h,f,m,h,f,n,h,A.aY(31,e>>>16&255,e>>>8&255,e&255),n.at,j,k,i,h,s,s),!1,new A.D9(),$.amW,s)}}
 A.pi.prototype={
 L(a,b){if(b.A(t.w).f.a.a>=1024)return this.f
 else return this.f}}
